@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">openClassroomExoRecyclerView</string>
+    <string name="title_activity_read_news">ReadNewsActivity</string>
+</resources>
